@@ -1,0 +1,7 @@
+C:\Users\OloruntobiJunaid\Documents\The Bulb\.Net\Assignments\AlgorithmWeek4\DeterminantOfMatrix\bin\Debug\DeterminantOfMatrix.exe.config
+C:\Users\OloruntobiJunaid\Documents\The Bulb\.Net\Assignments\AlgorithmWeek4\DeterminantOfMatrix\bin\Debug\DeterminantOfMatrix.exe
+C:\Users\OloruntobiJunaid\Documents\The Bulb\.Net\Assignments\AlgorithmWeek4\DeterminantOfMatrix\bin\Debug\DeterminantOfMatrix.pdb
+C:\Users\OloruntobiJunaid\Documents\The Bulb\.Net\Assignments\AlgorithmWeek4\DeterminantOfMatrix\obj\Debug\DeterminantOfMatrix.csprojAssemblyReference.cache
+C:\Users\OloruntobiJunaid\Documents\The Bulb\.Net\Assignments\AlgorithmWeek4\DeterminantOfMatrix\obj\Debug\DeterminantOfMatrix.csproj.CoreCompileInputs.cache
+C:\Users\OloruntobiJunaid\Documents\The Bulb\.Net\Assignments\AlgorithmWeek4\DeterminantOfMatrix\obj\Debug\DeterminantOfMatrix.exe
+C:\Users\OloruntobiJunaid\Documents\The Bulb\.Net\Assignments\AlgorithmWeek4\DeterminantOfMatrix\obj\Debug\DeterminantOfMatrix.pdb

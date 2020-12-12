@@ -1,0 +1,7 @@
+C:\Users\OloruntobiJunaid\Documents\The Bulb\.Net\Assignments\AlgorithmWeek4\TestException\bin\Debug\TestException.exe.config
+C:\Users\OloruntobiJunaid\Documents\The Bulb\.Net\Assignments\AlgorithmWeek4\TestException\bin\Debug\TestException.exe
+C:\Users\OloruntobiJunaid\Documents\The Bulb\.Net\Assignments\AlgorithmWeek4\TestException\bin\Debug\TestException.pdb
+C:\Users\OloruntobiJunaid\Documents\The Bulb\.Net\Assignments\AlgorithmWeek4\TestException\obj\Debug\TestException.csprojAssemblyReference.cache
+C:\Users\OloruntobiJunaid\Documents\The Bulb\.Net\Assignments\AlgorithmWeek4\TestException\obj\Debug\TestException.csproj.CoreCompileInputs.cache
+C:\Users\OloruntobiJunaid\Documents\The Bulb\.Net\Assignments\AlgorithmWeek4\TestException\obj\Debug\TestException.exe
+C:\Users\OloruntobiJunaid\Documents\The Bulb\.Net\Assignments\AlgorithmWeek4\TestException\obj\Debug\TestException.pdb
